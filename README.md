@@ -1,5 +1,3 @@
-# tax-calculation
-
 Tax Calculator
 This is a simple web application for calculating taxes based on age, gross annual income, extra income, and deductions.
 
@@ -27,7 +25,3 @@ Enter your age category (below 40, between 40 and 60, or above 60) from the drop
 Enter your gross annual income, extra income, and deductions in the respective input fields.
 Click the "Submit" button to calculate the tax.
 The tax calculation result will be displayed in a modal window.
-
-
-
-
